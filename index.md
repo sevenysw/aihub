@@ -3,6 +3,6 @@
 2018-01-06
 
 
-[page2] page2.md
+[page2] (page2.md)
 
 
